@@ -1,0 +1,24 @@
+{
+    "CrossLanguagePackageId": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId",
+    "CrossLanguageDefinitionId": {
+        "specs.azure.clientgenerator.core.lro.operationid.models.DocumentAnalysisResult": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.DocumentAnalysisResult",
+        "specs.azure.clientgenerator.core.lro.operationid.models.DocumentAnalysisStatus": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.DocumentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.models.TranslationResult": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.TranslationResult",
+        "specs.azure.clientgenerator.core.lro.operationid.models.TranslationStatus": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.TranslationStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.models.TranslationWithPathStatus": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.TranslationWithPathStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.models.OperationState": "Azure.Core.Foundations.OperationState",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.get_document_analysis_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getDocumentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.get_document_analysis_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getDocumentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.begin_analyze": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.analyze",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.begin_analyze": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.analyze",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.get_translation_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getTranslationStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.get_translation_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getTranslationStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.begin_start_translation": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.startTranslation",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.begin_start_translation": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.startTranslation",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.get_translation_with_path_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getTranslationWithPathStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.get_translation_with_path_status": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.getTranslationWithPathStatus",
+        "specs.azure.clientgenerator.core.lro.operationid.OperationIdClient.begin_start_translation_with_path": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.startTranslationWithPath",
+        "specs.azure.clientgenerator.core.lro.operationid.aio.OperationIdClient.begin_start_translation_with_path": "_Specs_.Azure.ClientGenerator.Core.Lro.OperationId.startTranslationWithPath"
+    },
+    "CrossLanguageVersion": "5e57f9e18eff"
+}

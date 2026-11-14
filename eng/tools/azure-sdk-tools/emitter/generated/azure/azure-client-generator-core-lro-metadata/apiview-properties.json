@@ -1,0 +1,25 @@
+{
+    "CrossLanguagePackageId": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata",
+    "CrossLanguageDefinitionId": {
+        "specs.azure.clientgenerator.core.lro.metadata.models.ContentAnalysisResult": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.ContentAnalysisResult",
+        "specs.azure.clientgenerator.core.lro.metadata.models.ContentAnalysisStatus": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.ContentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.models.JobItemError": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.JobItemError",
+        "specs.azure.clientgenerator.core.lro.metadata.models.JobStatistics": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.JobStatistics",
+        "specs.azure.clientgenerator.core.lro.metadata.models.JobTimestamps": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.JobTimestamps",
+        "specs.azure.clientgenerator.core.lro.metadata.models.LanguageJobResult": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.LanguageJobResult",
+        "specs.azure.clientgenerator.core.lro.metadata.models.LanguageJobStatus": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.LanguageJobStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.models.UsageDetails": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.UsageDetails",
+        "specs.azure.clientgenerator.core.lro.metadata.models.OperationState": "Azure.Core.Foundations.OperationState",
+        "specs.azure.clientgenerator.core.lro.metadata.MetadataClient.get_content_analysis_status": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.getContentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.aio.MetadataClient.get_content_analysis_status": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.getContentAnalysisStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.MetadataClient.begin_analyze_with_usage": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeWithUsage",
+        "specs.azure.clientgenerator.core.lro.metadata.aio.MetadataClient.begin_analyze_with_usage": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeWithUsage",
+        "specs.azure.clientgenerator.core.lro.metadata.MetadataClient.get_language_job_status": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.getLanguageJobStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.aio.MetadataClient.get_language_job_status": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.getLanguageJobStatus",
+        "specs.azure.clientgenerator.core.lro.metadata.MetadataClient.begin_analyze_job": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeJob",
+        "specs.azure.clientgenerator.core.lro.metadata.aio.MetadataClient.begin_analyze_job": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeJob",
+        "specs.azure.clientgenerator.core.lro.metadata.MetadataClient.begin_analyze_job_with_failure": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeJobWithFailure",
+        "specs.azure.clientgenerator.core.lro.metadata.aio.MetadataClient.begin_analyze_job_with_failure": "_Specs_.Azure.ClientGenerator.Core.Lro.Metadata.analyzeJobWithFailure"
+    },
+    "CrossLanguageVersion": "eb4e5d894cf8"
+}
