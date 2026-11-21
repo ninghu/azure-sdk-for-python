@@ -1,0 +1,17 @@
+{
+    "CrossLanguagePackageId": "Azure.ResourceManager.Example",
+    "CrossLanguageDefinitionId": {
+        "azure.resourcemanager.example.models.ErrorAdditionalInfo": "Azure.ResourceManager.CommonTypes.ErrorAdditionalInfo",
+        "azure.resourcemanager.example.models.ErrorDetail": "Azure.ResourceManager.CommonTypes.ErrorDetail",
+        "azure.resourcemanager.example.models.ErrorResponse": "Azure.ResourceManager.CommonTypes.ErrorResponse",
+        "azure.resourcemanager.example.models.Resource": "Azure.ResourceManager.CommonTypes.Resource",
+        "azure.resourcemanager.example.models.ProxyResource": "Azure.ResourceManager.CommonTypes.ProxyResource",
+        "azure.resourcemanager.example.models.SystemData": "Azure.ResourceManager.CommonTypes.SystemData",
+        "azure.resourcemanager.example.models.Widget": "Azure.ResourceManager.Example.Widget",
+        "azure.resourcemanager.example.models.WidgetProperties": "Azure.ResourceManager.Example.WidgetProperties",
+        "azure.resourcemanager.example.models.CreatedByType": "Azure.ResourceManager.CommonTypes.createdByType",
+        "azure.resourcemanager.example.operations.WidgetsOperations.list_by_resource_group": "Azure.ResourceManager.Example.Widgets.listByResourceGroup",
+        "azure.resourcemanager.example.aio.operations.WidgetsOperations.list_by_resource_group": "Azure.ResourceManager.Example.Widgets.listByResourceGroup"
+    },
+    "CrossLanguageVersion": "d3c78cb6e9d5"
+}
